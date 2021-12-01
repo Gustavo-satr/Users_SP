@@ -1,0 +1,6 @@
+Colocar en el build.gradle(:app) debajo de buildTypes y darle en sincronizar
+
+viewBinding{
+        enabled = true
+    }
+
